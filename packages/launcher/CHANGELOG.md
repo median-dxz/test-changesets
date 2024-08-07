@@ -1,5 +1,16 @@
 # launcher
 
+## 1.1.0
+
+### Minor Changes
+
+- 21fa067: newe nwee
+
+### Patch Changes
+
+- Updated dependencies [ 5e0aef0 ]
+  - resolver@3.1.0
+
 ## 1.0.9
 
 ### Patch Changes
