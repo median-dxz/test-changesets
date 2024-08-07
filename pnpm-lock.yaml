@@ -26,6 +26,9 @@ importers:
         specifier: workspace:*
         version: link:../resolver
     devDependencies:
+      server:
+        specifier: workspace:*
+        version: link:../server
       type:
         specifier: workspace:*
         version: link:../type

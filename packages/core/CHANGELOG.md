@@ -1,5 +1,12 @@
 # core
 
+## 1.1.2
+
+### Patch Changes
+
+- 7b0c2f9: a
+- 1f58ae1: patch
+
 ## 1.1.1
 
 ### Patch Changes

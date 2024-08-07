@@ -1,5 +1,13 @@
 # type
 
+## 3.0.2
+
+### Patch Changes
+
+- Updated dependencies [7b0c2f9]
+- Updated dependencies [1f58ae1]
+  - core@1.1.2
+
 ## 3.0.1
 
 ### Patch Changes
