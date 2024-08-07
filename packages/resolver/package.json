@@ -1,6 +1,6 @@
 {
   "name": "resolver",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "private": true,
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "workspace:*"
   },
   "peerDependencies": {
-    "type": "^2.0.0"
+    "type": "^3.0.0"
   },
   "keywords": [],
   "author": "",

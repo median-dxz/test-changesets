@@ -1,5 +1,0 @@
----
-"resolver": major
----
-
-fefvermmi
