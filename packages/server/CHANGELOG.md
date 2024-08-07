@@ -1,5 +1,11 @@
 # server
 
+## 1.0.5
+
+### Patch Changes
+
+- resolver@3.0.3
+
 ## 1.0.4
 
 ### Patch Changes

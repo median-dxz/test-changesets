@@ -17,5 +17,9 @@
   "access": "restricted",
   "baseBranch": "main",
   "updateInternalDependencies": "minor",
+  "bumpVersionsWithWorkspaceProtocolOnly": true,
+  "__experimentalUnsafeOptions_WILL_CHANGE_IN_PATCH": {
+    "onlyUpdatePeerDependentsWhenOutOfRange": true
+  },
   "ignore": []
 }

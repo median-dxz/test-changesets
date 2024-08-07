@@ -1,5 +1,11 @@
 # resolver
 
+## 3.0.3
+
+### Patch Changes
+
+- type@3.0.3
+
 ## 3.0.2
 
 ### Patch Changes
