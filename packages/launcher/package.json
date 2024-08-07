@@ -12,7 +12,8 @@
     "resolver": "workspace:*"
   },
   "devDependencies": {
-    "type": "workspace:*"
+    "type": "workspace:*",
+    "server": "workspace:*"
   },
   "keywords": [],
   "author": "",
