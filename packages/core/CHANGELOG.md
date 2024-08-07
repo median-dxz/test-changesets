@@ -1,5 +1,11 @@
 # core
 
+## 2.0.1
+
+### Patch Changes
+
+- 63b41c9: asd
+
 ## 2.0.0
 
 ### Major Changes
