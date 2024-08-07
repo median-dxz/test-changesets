@@ -1,5 +1,12 @@
 # launcher
 
+## 1.0.9
+
+### Patch Changes
+
+- e699b67: cc:3
+  - resolver@3.0.4
+
 ## 1.0.8
 
 ### Patch Changes

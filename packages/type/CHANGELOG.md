@@ -1,5 +1,11 @@
 # type
 
+## 3.0.4
+
+### Patch Changes
+
+- e699b67: aa:1 bb:2
+
 ## 3.0.3
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # server
 
+## 1.0.9
+
+### Patch Changes
+
+- e699b67: aa:1 bb:2
+  - resolver@3.0.4
+
 ## 1.0.5
 
 ### Patch Changes
