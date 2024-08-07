@@ -1,5 +1,12 @@
 # launcher
 
+## 1.0.6
+
+### Patch Changes
+
+- Updated dependencies [5ef96b7]
+  - core@1.1.4
+
 ## 1.0.5
 
 ### Patch Changes
