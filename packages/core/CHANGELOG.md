@@ -1,5 +1,12 @@
 # core
 
+## 1.1.1
+
+### Patch Changes
+
+- f110f0f: p1
+- 0d0e2b2: p2
+
 ## 1.1.0
 
 ### Minor Changes

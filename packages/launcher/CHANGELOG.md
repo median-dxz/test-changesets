@@ -1,5 +1,14 @@
 # launcher
 
+## 1.0.3
+
+### Patch Changes
+
+- Updated dependencies [f110f0f]
+- Updated dependencies [0d0e2b2]
+  - core@1.1.1
+  - resolver@3.0.1
+
 ## 1.0.2
 
 ### Patch Changes
