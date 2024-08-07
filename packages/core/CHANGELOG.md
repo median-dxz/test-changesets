@@ -1,5 +1,17 @@
 # core
 
+## 2.0.0
+
+### Major Changes
+
+- qerqwe
+
+## 1.2.0
+
+### Minor Changes
+
+- dffrf
+
 ## 1.1.4
 
 ### Patch Changes
