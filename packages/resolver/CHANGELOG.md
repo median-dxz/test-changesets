@@ -1,5 +1,16 @@
 # resolver
 
+## 3.1.0
+
+### Minor Changes
+
+- 5e0aef0: dsaw
+
+### Patch Changes
+
+- Updated dependencies [5e0aef0]
+  - type@3.1.0
+
 ## 3.0.4
 
 ### Patch Changes
