@@ -32,7 +32,7 @@ jobs:
           version: pnpm exec changeset version
           commit: "chore: update versions"
           title: "chore: update versions"
-          createGithubReleases: true,
+          createGithubReleases: true
           publish: pnpm test
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
