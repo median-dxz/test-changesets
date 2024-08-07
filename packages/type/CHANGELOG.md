@@ -1,5 +1,11 @@
 # type
 
+## 3.1.0
+
+### Minor Changes
+
+- 5e0aef0: dsaw
+
 ## 3.0.4
 
 ### Patch Changes
