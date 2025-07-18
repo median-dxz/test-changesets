@@ -15,7 +15,7 @@
 
 ### Patch Changes
 
-- Updated dependencies [ 5e0aef0 ]
+- Updated dependencies [5e0aef0]
   - resolver@3.1.0
 
 ## 1.0.9
